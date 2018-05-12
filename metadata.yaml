@@ -1,0 +1,34 @@
+_repo: The-Camp-Fire-Girls-on-a-Yacht_42548
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Evers, Maude Martin
+    gutenberg_agent_id: '41739'
+    url: http://www.gutenberg.org/2009/agents/41739
+covers:
+- cover_type: archival
+  image_path: 42548-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sanderson, Margaret Love
+    gutenberg_agent_id: '41738'
+    url: http://www.gutenberg.org/2009/agents/41738
+description: ''
+gutenberg_issued: '2013-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Yachts -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Atlantic Coast (Mass.) -- Description and travel -- Juvenile fiction'
+title: The Camp Fire Girls on a Yacht
+url: http://www.gutenberg.org/ebooks/42548
